@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Vishnu Gowda 👋
 
-<!--
-**Vishnu-ai637/Vishnu-ai637** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.E. Information Science & Engineering graduate
+💻 Aspiring Software Developer with a focus on Python and Full-Stack Development
+🐍 Python | Flask | SQL | JavaScript | HTML | CSS
+🛠️ Git | GitHub | MySQL | VS Code | Figma
 
-Here are some ideas to get you started:
+I enjoy building practical web applications and improving my programming and problem-solving skills through hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects
+
+* 🌦️ **Weather Forecast Web App** — Real-time weather data using OpenWeather API
+* 🏥 **Hospital Management System** — Full-stack application using Python, Flask and MySQL
+
+### 📚 Currently Improving
+
+* Python & Data Structures
+* SQL & Database Management
+* Flask & Backend Development
+* Problem Solving & Coding
+
+### 🤝 Let's Connect
+
+I'm interested in Software Developer and Full-Stack Developer opportunities, collaborative projects, and learning from other developers.

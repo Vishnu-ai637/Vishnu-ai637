@@ -1,37 +1,49 @@
 # Hi, I'm Vishnu Gowda 👋
 
-🎓 **B.E. Information Science & Engineering Graduate**
-💻 **Aspiring Software Developer | Python & Full-Stack Development**
-🐍 **Python** • Flask • SQL • JavaScript • HTML • CSS
-🛠️ **Git** • GitHub • MySQL • VS Code • Figma
+### Software Developer | Python | Flask | SQL
 
-> 🚀 **Building ideas into practical, user-friendly web applications.**
+I'm a **B.E. Information Science & Engineering graduate** interested in software development and building practical web applications.
 
-I’m passionate about **software development, problem-solving, and building real-world applications** through hands-on projects. I enjoy turning ideas into functional solutions while continuously strengthening my programming and development skills.
+I enjoy working with **Python, Flask, SQL, JavaScript, HTML, and CSS**, and I’m continuously improving my problem-solving and development skills through hands-on projects.
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-🌦️ **Weather Forecast Web App**
-A responsive web application that delivers real-time weather information using the **OpenWeather API**, with a clean and user-friendly interface.
+**Languages:**
+Python · SQL · JavaScript
 
-🏥 **Hospital Management System**
-A full-stack web application built with **Python, Flask, and MySQL**, featuring role-based access, appointment scheduling, and secure patient health records.
+**Web & Backend:**
+HTML · CSS · Flask
 
-## 🧠 Currently Improving
+**Database:**
+MySQL
 
-* 🐍 **Python & Data Structures**
-* 🗄️ **SQL & Database Management**
-* ⚙️ **Flask & Backend Development**
-* 🧩 **Problem Solving & Coding**
-* 🌐 **Full-Stack Web Development**
+**Tools:**
+Git · GitHub · VS Code · Figma
 
-## 🏆 A Few Highlights
+### 🚀 Projects
 
-🥉 **3rd Place — Vibe Coding 2026**
-🎯 **Finalist — Prompt Engineering Competition**
+**🌦️ Weather Forecast Web App**
+Responsive web application that provides real-time weather information using the OpenWeather API.
 
-## 🤝 Let's Connect
+**🏥 Hospital Management System**
+Full-stack application built with Python, Flask, and MySQL, including authentication, role-based access, appointment scheduling, and patient health records.
 
-I’m always open to **learning, collaborating, building interesting projects, and exploring Software Developer opportunities**.
+### 🎯 Currently Learning
 
-⭐ Feel free to explore my repositories and follow my journey as I continue to **learn, build, and grow as a developer!**
+* Data Structures & Problem Solving
+* Advanced Python
+* Backend Development with Flask
+* SQL & Database Design
+* Full-Stack Development
+
+### 🏆 Achievements
+
+* 🥉 3rd Place — Vibe Coding 2026
+* 🎯 Finalist — Prompt Engineering Competition
+* 🏆 Runner-up — National Level Floorball Championship
+
+### 🤝 Connect With Me
+
+I'm open to **software development opportunities, collaborations, and interesting projects**.
+
+**Thanks for visiting my profile! ⭐**
